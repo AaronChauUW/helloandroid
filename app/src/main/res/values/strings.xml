@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Magic o:</string>
-    <string name="hello_world">Hello Ted (or Stephen)!</string>
+    <string name="app_name">ASCII Fail o:</string>
+    <string name="hello_world">I tried to make some ascii art but it didn\'t work out too well. I then proceeded to cry. #failedcreativity.</string>
+    <string name="ascii_fail">
+&#160;_&#160;&#160;&#160;_&#160;&#160;&#160;_&#160;_&#160;_&#160;&#160;&#160;_&#160;&#160;&#160;&#160;&#160;&#160;&#160;_&#160;&#160;&#160;&#160;&#160;&#160;&#160;_&#160;_&#160;_&#160; \n
+|&#160;|_|&#160;|&#160;|&#160;&#160;_&#160;_|&#160;|&#160;|&#160;&#160;&#160;&#160;&#160;|&#160;|&#160;&#160;&#160;&#160;&#160;|&#160;&#160;_&#160;&#160;| \n
+|&#160;&#160;_&#160;&#160;|&#160;|&#160;&#160;_&#160;_|&#160;|&#160;|_&#160;_&#160;&#160;|&#160;|_&#160;_&#160;&#160;|&#160;|_|&#160;| \n
+|_|&#160;|_|&#160;|_&#160;_&#160;_|&#160;|_&#160;_&#160;_|&#160;|_&#160;_&#160;_|&#160;|_&#160;_&#160;_| \n
+    </string>
     <string name="action_settings">Settings</string>
 
 </resources>
